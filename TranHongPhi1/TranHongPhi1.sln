@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TranHongPhi1", "TranHongPhi1\TranHongPhi1.csproj", "{EF909F25-06AE-42DC-8FE7-A39D6F481553}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TranHongPhi11", "TranHongPhi1.1\TranHongPhi11.csproj", "{D26C9F90-0FC0-40C3-AAA5-C0E327AD76A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF909F25-06AE-42DC-8FE7-A39D6F481553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF909F25-06AE-42DC-8FE7-A39D6F481553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF909F25-06AE-42DC-8FE7-A39D6F481553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF909F25-06AE-42DC-8FE7-A39D6F481553}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D26C9F90-0FC0-40C3-AAA5-C0E327AD76A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D26C9F90-0FC0-40C3-AAA5-C0E327AD76A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D26C9F90-0FC0-40C3-AAA5-C0E327AD76A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D26C9F90-0FC0-40C3-AAA5-C0E327AD76A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BE76626-F825-4C31-885E-7E94D114BBBC}
+	EndGlobalSection
+EndGlobal
