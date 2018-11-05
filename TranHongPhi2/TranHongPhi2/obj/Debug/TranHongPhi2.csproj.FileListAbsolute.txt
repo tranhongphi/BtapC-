@@ -1,0 +1,7 @@
+D:\laptrinh\C#\TranHongPhi2\TranHongPhi2\obj\Debug\TranHongPhi2.csprojAssemblyReference.cache
+D:\laptrinh\C#\TranHongPhi2\TranHongPhi2\obj\Debug\TranHongPhi2.csproj.CoreCompileInputs.cache
+D:\laptrinh\C#\TranHongPhi2\TranHongPhi2\bin\Debug\TranHongPhi2.exe.config
+D:\laptrinh\C#\TranHongPhi2\TranHongPhi2\bin\Debug\TranHongPhi2.exe
+D:\laptrinh\C#\TranHongPhi2\TranHongPhi2\bin\Debug\TranHongPhi2.pdb
+D:\laptrinh\C#\TranHongPhi2\TranHongPhi2\obj\Debug\TranHongPhi2.exe
+D:\laptrinh\C#\TranHongPhi2\TranHongPhi2\obj\Debug\TranHongPhi2.pdb
