@@ -1,0 +1,7 @@
+D:\laptrinh\C#\btapthaythe\btapthaythe\bin\Debug\btapthaythe.exe.config
+D:\laptrinh\C#\btapthaythe\btapthaythe\bin\Debug\btapthaythe.exe
+D:\laptrinh\C#\btapthaythe\btapthaythe\bin\Debug\btapthaythe.pdb
+D:\laptrinh\C#\btapthaythe\btapthaythe\obj\Debug\btapthaythe.csprojAssemblyReference.cache
+D:\laptrinh\C#\btapthaythe\btapthaythe\obj\Debug\btapthaythe.csproj.CoreCompileInputs.cache
+D:\laptrinh\C#\btapthaythe\btapthaythe\obj\Debug\btapthaythe.exe
+D:\laptrinh\C#\btapthaythe\btapthaythe\obj\Debug\btapthaythe.pdb
